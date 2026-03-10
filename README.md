@@ -10,7 +10,3 @@ donnant l’illusion de la mort des plantes, plus on bouge, plus elles souffrent
 Utilise Media Pipe Hands : un système de suivi qui permet de détecter nos mains en 3D. 
 Lorsque l’on **agite la main**, les arbres rétrécissent, et lorsqu’on **lève les bras**, les fleurs et les feuilles tombent.
 Cela permet de montrer que le spectateur a envahi l'espace vitale de la plante.
-
-![Plante numérique](photos/DNSEP-21.jpg)
-
-![Plante numérique](DNSEP-37.jpg)
