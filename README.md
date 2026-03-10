@@ -11,6 +11,6 @@ Utilise Media Pipe Hands : un système de suivi qui permet de détecter nos main
 Lorsque l’on **agite la main**, les arbres rétrécissent, et lorsqu’on **lève les bras**, les fleurs et les feuilles tombent.
 Cela permet de montrer que le spectateur a envahi l'espace vitale de la plante.
 
-![Plante numérique](DNSEP -21.jpg)
+![Plante numérique](photos/DNSEP -21.jpg)
 
-![Plante numérique](DNSEP -37.jpg)
+![Plante numérique](photos/DNSEP -37.jpg)
